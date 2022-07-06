@@ -1,19 +1,13 @@
 ### Hey there👋💯
 
-<!--
-**curiousgrids/curiousgrids** is a ⚜️_special_⚜️repository because it's 'README.md' (this file) appears on your Github
-profile. 
+ ![Screenshot_20220625_132938-02](https://user-images.githubusercontent.com/105502291/177459613-ccba57a0-d3a4-4cb8-830c-5e6c5b284f1c.jpeg)
 
-Here are some ideas to get you started:
 
-_💢i'm currently working on... 
-_👨‍🔧i'm currently learning... 
-_👥i'm looking to collaborate on... 
-_🤔i'm looking for help with... 
-_💭ask me about... 
-_🔐how to reach me: ... 
-_🤭pronouns... 
-_☺️fun fact:... 
--->
 
-![Github Stats] (https://github-readme-stats.vercel.app/api?username= & theme=redical) 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;WELCOME+MATHIYA+578+PROFILE!;HI+FRIENDS!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=120">
+  
+  
+  
+
+
+
